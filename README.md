@@ -55,11 +55,11 @@ python run_flowdepth.py
 ```
 
 # Results
-Environment: Skcastle | Left: Goal Image | Right: DFVS
-![Environment: Skcastle | Left: Goal Image | Right: DFVS ](/media/skcastle.gif)
-Environment: Quantico | Left: Goal Image | Right: DFVS
-![Environment: Quantico | Left: Goal Image | Right: DFVS ](/media/quantico.gif)
-Environment: Ballou | Left: Goal Image | Right: DFVS
-![Environment: Ballou | Left: Goal Image | Right: DFVS ](/media/ballou.gif)
-Environment: Mesic | Left: Goal Image | Right: DFVS
-![Environment: Mesic | Left: Goal Image | Right: DFVS ](/media/mesic.gif)
+Environment: Skcastle | Left: Goal Image | Right: DFVS  
+![Environment: Skcastle | Left: Goal Image | Right: DFVS ](/media/skcastle.gif)  
+Environment: Quantico | Left: Goal Image | Right: DFVS  
+![Environment: Quantico | Left: Goal Image | Right: DFVS ](/media/quantico.gif)  
+Environment: Ballou | Left: Goal Image | Right: DFVS  
+![Environment: Ballou | Left: Goal Image | Right: DFVS ](/media/ballou.gif)  
+Environment: Mesic | Left: Goal Image | Right: DFVS  
+![Environment: Mesic | Left: Goal Image | Right: DFVS ](/media/mesic.gif)  
