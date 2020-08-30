@@ -12,7 +12,7 @@ measurements from a monocular vision sensor.
 
 (i) Optical flow as visual features predicted using [Flownet2](https://github.com/NVIDIA/flownet2-pytorch) with input as current and desired monocular images from vision sensor.  
 (ii) Depth estimation using Monocular [DenseDepth](https://github.com/ialhashim/DenseDepth) with input as current monocular image from camera sensor / classical geometry estimates i.e using flow as a [proxy](http://stanford.edu/class/ee367/Winter2017/pan_ee367_win17_report.pdf) for depth.   
-(iii) Flow features(i) annd Depth estimates(ii) systematically integrated to formulate interaction matrix.  
+(iii) Flow features from (i) and Depth estimates from (ii) systematically integrated to formulate interaction matrix using [34.12](https://hal.inria.fr/hal-01355384/document)
 (iv) Generation of 6DoF control using Control Law from [34.5](https://hal.inria.fr/hal-01355384/document) solved using Levenberg-marquardt based gradient descent due to large feature vector space (optical flow).  
 
 
